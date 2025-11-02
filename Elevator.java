@@ -1,5 +1,3 @@
-package bluestaqTakeHome;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -119,3 +117,4 @@ public class Elevator extends Thread {
         elevator.call(8);
     }
 }
+
